@@ -10,7 +10,7 @@ Installation
 Add spree_braintree_v_zero to your Gemfile:
 
 ```ruby
-gem 'spree_braintree_v_zero', git: 'v-may/spree_braintree_v_zero'
+gem 'spree_braintree_v_zero', github: 'v-may/spree_braintree_v_zero'
 ```
 
 Bundle your dependencies:
