@@ -18,14 +18,15 @@ gem 'spree_braintree_v_zero', git: 'v-may/spree_braintree_v_zero'
 
 2. Bundle your dependencies:
 
-```bundle install
+```
+bundle install
 ```
 
 3. Install gem and run migrations:
 
     bundle exec rails g spree_braintree_v_zero:install
 
-5. Restart your server
+4. Restart your server
 
 Configuration
 -------------
