@@ -1,0 +1,7 @@
+/*
+ *= require store/spree_core
+*/
+
+#braintree-error-message {
+  color: red;
+}
