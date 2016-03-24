@@ -1,8 +1,5 @@
 # spree_braintree_v_zero
 
-SpreeBraintreeVZero
-===================
-
 A [Spree](http://spreecommerce.com) extension to allow payments using Braintree v.zero (DropIn) payment service.
 
 Works with Rails 3.2.13 and Spree 1.3
@@ -10,23 +7,23 @@ Works with Rails 3.2.13 and Spree 1.3
 Installation
 ------------
 
-1. Add spree_braintree_v_zero to your Gemfile:
+Add spree_braintree_v_zero to your Gemfile:
 
 ```ruby
 gem 'spree_braintree_v_zero', git: 'v-may/spree_braintree_v_zero'
 ```
 
-2. Bundle your dependencies:
+Bundle your dependencies:
 
 ```
 bundle install
 ```
 
-3. Install gem and run migrations:
+Install gem and run migrations:
 
     bundle exec rails g spree_braintree_v_zero:install
 
-4. Restart your server
+Restart your server
 
 Configuration
 -------------
